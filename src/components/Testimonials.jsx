@@ -12,7 +12,7 @@ function Testimonials() {
         courses have had on their lives.
           </p>
           
-          <div className="flex gap-4 mt-4">
+          <div className="w-full flex items-center justify-center gap-4 mt-4 overflow-x-scroll">
               <TestimonialItem/>
               <TestimonialItem/>
               <TestimonialItem/>

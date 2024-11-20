@@ -8,6 +8,7 @@ import PopularCourses from './components/PopularCourses'
 import Instructor from './components/Instructor'
 import Testimonials from './components/Testimonials'
 import Newsletter from './components/Newsletter'
+import Footer from './components/Footer'
 
 function App() {
   return (
@@ -19,7 +20,8 @@ function App() {
       <PopularCourses />
       <Instructor />
       <Testimonials />
-      <Newsletter/>
+      <Newsletter />
+      <Footer/>
     </div>
   )
 }

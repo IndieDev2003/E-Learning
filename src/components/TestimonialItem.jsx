@@ -2,7 +2,7 @@ import React from "react";
 
 function TestimonialItem() {
   return (
-      <div className="h-[200px] w-[300px] flex flex-col px-3 gap-2 py-3 bg-white rounded-lg">
+      <div className="flex-shrink-0 h-[200px] w-[300px] flex flex-col px-3 gap-2 py-3 bg-white rounded-lg">
           {/* Profile Photo */}
       <div className="flex flex-row items-center justify-start gap-2">
         <div className="h-20 w-20 border-4 border-purple-500 rounded-full overflow-hidden">

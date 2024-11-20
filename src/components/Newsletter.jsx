@@ -2,8 +2,8 @@ import React from "react";
 
 function Newsletter() {
   return (
-    <div className="h-[60vh] w-full overflow-hidden p-1 bg-gray-300">
-      <div className="h-full w-full rounded-tl-[140px] rounded-br-[140px] bg-white flex items-center justify-center">
+    <div className="sm:h-[60vh] w-full overflow-hidden p-1 sm:bg-gray-300">
+      <div className="h-full w-full rounded-tl-[140px] rounded-br-[140px] sm:bg-white flex items-center justify-center">
         <div className="flex flex-col gap-2 items-center justify-center text-white bg-grad py-4 px-20 text-center rounded-xl">
           <h2 className="text-3xl font-">Get In Touch!</h2>
           <p>
