@@ -20,3 +20,7 @@
 .bg-grad{
   @apply bg-gradient-to-br from-violet-500 to-fuchsia-500
 }
+
+::-webkit-scrollbar{
+  display:none;
+}
